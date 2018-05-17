@@ -1,0 +1,13 @@
+.header-wrapper{
+  height: 60vh;
+  color: #ffffff;
+  background: url("http://res.cloudinary.com/polymorph/image/upload/v1526477987/Hero-image_2x.png") no-repeat center;
+
+}
+
+.content-wrapper{
+  height: 40vh;
+  background: url("http://res.cloudinary.com/polymorph/image/upload/v1526477918/Vignettes_2x.png") no-repeat center;
+  z-index: 0;
+  opacity: 0.5;
+}
